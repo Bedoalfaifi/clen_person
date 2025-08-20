@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>سياسة الخصوصية وشروط الاستخدام</title>
+  <style>
+    body {
+      font-family: Tahoma, Arial, sans-serif;
+      background: #f8f9fa;
+      margin: 40px;
+      line-height: 1.8;
+      color: #333;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    .container {
+      background: #fff;
+      padding: 25px;
+      border-radius: 12px;
+      max-width: 900px;
+      margin: auto;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>سياسة الخصوصية</h1>
+    <p>
+      نحن نلتزم بحماية خصوصيتك. يتم جمع واستخدام بياناتك الشخصية فقط لتقديم الخدمة وتحسينها.
+      لن نقوم بمشاركة معلوماتك مع أي طرف ثالث إلا في الحالات التي يفرضها القانون.
+    </p>
+
+    <h2>شروط الاستخدام</h2>
+    <p>
+      باستخدامك لهذا الموقع أو التطبيق فإنك توافق على الشروط التالية:
+    </p>
+    <ul>
+      <li>يُسمح لك باستخدام الخدمة فقط للأغراض المشروعة.</li>
+      <li>لا يجوز إساءة استخدام المحتوى أو محاولة اختراق النظام.</li>
+      <li>قد نقوم بتحديث الشروط من وقت لآخر، ويُعتبر استمرارك في الاستخدام موافقة على التعديلات.</li>
+    </ul>
+
+    <h2>اتصل بنا</h2>
+    <p>
+      إذا كان لديك أي استفسار حول سياسة الخصوصية أو شروط الاستخدام، يرجى التواصل عبر البريد الإلكتروني:
+      <a href="mailto:example@email.com">example@email.com</a>
+    </p>
+  </div>
+</body>
+</html>
